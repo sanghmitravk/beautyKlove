@@ -1,0 +1,10 @@
+@import "../../styles/variable.scss";
+.container {
+  flex: 1;
+  background-color: $white;
+}
+
+.sectionContainer {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}

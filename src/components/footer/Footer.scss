@@ -1,0 +1,15 @@
+@import "../../styles/variable.scss";
+.Heading {
+  font-size: 0.8rem;
+  color: $primary;
+}
+
+.Copyright {
+  color: $fontColor;
+  font-size: 1rem;
+}
+
+.footer {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
