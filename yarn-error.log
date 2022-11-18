@@ -1,0 +1,60 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Sanghmitra\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add react-native-reanimated
+
+PATH: 
+  C:\Program Files (x86)\Git\mingw64\bin;C:\Program Files (x86)\Git\usr\bin;C:\Users\Sanghmitra\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\TortoiseHg;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files (x86)\Git\usr\bin\bash.exe;C:\Program Files\PuTTY;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\mingw64\bin;C:\Program Files (x86)\Git\usr\bin;C:\Program Files\Amazon\AWSCLIV2;C:\ProgramData\chocolatey\bin;C:\Program Files\Redis;C:\Program Files\nodejs;C:\Users\Sanghmitra\AppData\Local\Programs\Python\Python37\Scripts;C:\Users\Sanghmitra\AppData\Local\Programs\Python\Python37;C:\Users\Sanghmitra\AppData\Roaming\npm\node_modules\@angular\cli\bin;C:\Users\Sanghmitra\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\JetBrains\PyCharm 2020.2.1\bin;C:\Users\Sanghmitra\AppData\Local\GitHubDesktop\bin;C:\Program Files\heroku\bin;C:\Users\Sanghmitra\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  14.18.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'C:\Users\Sanghmitra\Desktop\Other\beautyKlove\node_modules\xdl\binaries\windows\adb\adb.exe'
+
+npm manifest: 
+  {
+    "name": "beautyklove",
+    "version": "1.0.0",
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web",
+      "eject": "expo eject"
+    },
+    "dependencies": {
+      "expo": "~46.0.10",
+      "expo-status-bar": "~1.4.0",
+      "react": "18.2.0",
+      "react-dom": "18.2.0",
+      "react-native": "0.70.1",
+      "react-native-sass-transformer": "^2.0.0",
+      "react-native-web": "0.18.9",
+      "react-native-screens": "~3.17.0",
+      "react-native-safe-area-context": "4.3.3"
+    },
+    "devDependencies": {
+      "@ant-design/icons": "^4.7.0",
+      "@babel/core": "^7.19.1",
+      "@react-navigation/native": "^6.0.13",
+      "@types/react": "~18.0.20",
+      "@types/react-native": "~0.70.1",
+      "node-sass": "^7.0.3",
+      "react-native-elements": "^3.4.2",
+      "sass": "^1.54.9",
+      "typescript": "~4.8.3"
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
